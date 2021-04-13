@@ -6,3 +6,4 @@ First tryout of a simple game
 
 ## List
 * BT01 GDD
+* BT02 PUSH complete
